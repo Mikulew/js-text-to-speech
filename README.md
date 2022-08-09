@@ -9,7 +9,7 @@
 
 ## General info
 
-Speech tools built into the browser to make a web page that can speak anything. I
+Speech tools built into the browser to make a web page that can speak anything.
 
 ## Technologies
 
@@ -19,7 +19,7 @@ Speech tools built into the browser to make a web page that can speak anything. 
 
 ## Demo
 
-- WIP
+- [Click here](https://mikulew.github.io/js-text-to-speech/)
 
 ## Resources
 
